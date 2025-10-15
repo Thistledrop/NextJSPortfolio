@@ -56,7 +56,7 @@ export const TECH_STACK = [
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
+  EMAIL: 'haileynature@gmail.com',
   PHONE: '+923159591822',
 };
 export const SOCIAL_LINKS = {
